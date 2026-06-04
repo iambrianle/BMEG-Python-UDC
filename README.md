@@ -14,7 +14,18 @@ A Python application that loads 3D motion-capture data from an Excel file and co
 - **Windows**: PowerShell or Command Prompt
 - **macOS**: Terminal.app
 
-### 2. Navigate to the project folder
+### 2. Get the project
+
+**Option A — Clone from GitHub:**
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
+```
+
+> Replace `YOUR_USERNAME/YOUR_REPO` with the actual GitHub repository path.
+
+**Option B — If you already have the files locally:**
 
 ```bash
 cd "BMEG Python UDC"
